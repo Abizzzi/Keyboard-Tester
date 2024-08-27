@@ -1,0 +1,17 @@
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\bin\Debug\net8.0-windows\Keyboard Tester.exe
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\bin\Debug\net8.0-windows\Keyboard Tester.deps.json
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\bin\Debug\net8.0-windows\Keyboard Tester.runtimeconfig.json
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\bin\Debug\net8.0-windows\Keyboard Tester.dll
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\bin\Debug\net8.0-windows\Keyboard Tester.pdb
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.csproj.GenerateResource.cache
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.AssemblyInfoInputs.cache
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.AssemblyInfo.cs
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.csproj.CoreCompileInputs.cache
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.dll
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\refint\Keyboard Tester.dll
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.pdb
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.genruntimeconfig.cache
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\ref\Keyboard Tester.dll
+C:\Users\Abolfazl\source\repos\Keyboard Tester\Keyboard Tester\obj\Debug\net8.0-windows\Keyboard Tester.sourcelink.json
