@@ -1,4 +1,5 @@
 # Keyboard Tester
+<img width="1120" height="368" alt="361867399-b4701cd3-3b59-44df-9d5c-31a148b484a2" src="https://github.com/user-attachments/assets/781b7503-5f09-45f6-a11d-3be4dbac9a57" />
 این پروژه رو با برنامه Visual Studio، با زبان C# و .NET و با windows form apps به صورت تفریحی ساختمش.
 
 بخاطر محدودیت هایی در KeyDown مثل دکمه Enter که مقدار 13 رو داره، هر دو دکمه Enter یک مقدار رو برمیگردونه.
