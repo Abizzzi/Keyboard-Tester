@@ -1,5 +1,5 @@
 # Keyboard Tester
-این پروژه رو با برنامه visual studio، با زبان C# و .net و با windows form apps به صورت تفریحی ساختمش.
+این پروژه رو با برنامه Visual Studio، با زبان C# و .NET و با windows form apps به صورت تفریحی ساختمش.
 
 بخاطر محدودیت هایی در KeyDown مثل دکمه Enter که مقدار 13 رو داره، هر دو دکمه Enter یک مقدار رو برمیگردونه.
 
@@ -9,4 +9,4 @@
 
 برای ساختن این برنامه حتی زره ای از هوش مصنوعی استفاده نکردم
 
-![image](https://github.com/user-attachments/assets/b4701cd3-3b59-44df-9d5c-31a148b484a2)
+شاید یروز برگشتم و از این کدام استفاده کردم
